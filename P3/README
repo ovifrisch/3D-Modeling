@@ -1,0 +1,7 @@
+I got pretty much everything to work except for the second half of the Gouraud shading (linear intensity interpolation on the scanline). Also for some minor reason if you try to resize my window stuff goes crazy so don't do that :)
+
+To change the shading method (Half toning or Phong) or to change light paramters, just press any key and you can specify these parameters in the termainal window. The default shading is Phong.
+
+The light and material files should be named light.txt and materials.txt and they should be placed in the directory.
+
+To, compile just press make. Then to run type p3 <filename>

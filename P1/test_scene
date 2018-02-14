@@ -1,0 +1,40 @@
+5	number of polygons
+	definition of 1st polygon
+9	number of points of 1st polygon
+54 38	coordinates of 1st point
+46 16	coordinates of 2nd point
+46 24	coordinates of 3rd point
+25 28	coordinates of 4th point
+44 42	coordinates of 5th point
+46 41	coordinates of 6th point
+46 33	coordinates of 7th point
+51 34	coordinates of 8th point
+52 52	coordinates of 9th point
+	definition of 2nd polygon
+4	number of points of 2nd polygon
+2 2	coordinates of 1st point
+8 2	coordinates of 2nd point
+8 8	coordinates of 3rd point
+2 8	coordinates of 4th point
+	definition of 3rd polygon
+3	number of points of 3rd polygon
+55 20	coordinates of 1st point
+55 30	coordinates of 2nd point
+65 20	coordinates of 3rd point
+	definition of 4th polygon
+3	number of points of 4th polygon
+25 0	coordinates of 1st point
+25 10	coordinates of 2nd point
+20 0	coordinates of 3rd point
+	definition of 5th polygon
+10	number of points of 5th polygon
+70 80	coordinates of 1st point
+76 78	coordinates of 2nd point
+80 73	coordinates of 3rd point
+80 67	coordinates of 4th point
+76 62	coordinates of 5th point
+70 60	coordinates of 6th point
+64 62	coordinates of 7th point
+60 67	coordinates of 8th point
+60 73	coordinates of 9th point
+64 78	coordinates of 10th point

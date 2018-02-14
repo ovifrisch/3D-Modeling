@@ -1,0 +1,19 @@
+Known Shortcomings:
+B-Spline curve isn't getting drawn properly. Points tend to 0,0. You cannot modify the knots or the degree. I have not implemented any IO for final de Boor knots or the degree. Also, resizing the window is not an option.
+
+Everything else works fine though.
+Instrustions:
+To run the program:
+Hit make and then run the executable.
+Start clicking points on the screen to define the control points on a curve.
+Once you are done, press'd', indicating you are done. At this point you can do a number of things:
+(IMPORTANT: AFTER YOU ARE DONE ANY OF THESE COMMANDS, PRESS 'D' AGAIN TO RESET)
+-you can move the points on the current cruve by clicking a point and dragging.
+-press 'a' to add more points on the current curve.
+-press 'r' to remove points on the current curve. The you can remove a point by clicking the point on the current curve you would like to remove.
+-press 'b' to generate a Bezier Curve for the current curve.
+-press 's' to generate a Spline Curve for the current curve.
+-press 'c' to add a curve. Once you press 'c', just start clicking to define the control points for this new curve.
+-press 'i' to change the current curve you want to operate on, and then press a number between 1 and how many curves you have already defined.
+
+

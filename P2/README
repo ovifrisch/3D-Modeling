@@ -1,0 +1,8 @@
+To compile:
+Type: make
+
+To run:
+Type: p2 <filename>
+(where filename is the name of the file with the object definition(s))
+
+Every time you want to transform an object or view its vertices, press any key and then follow the instructions at the command line. The objects are indexed by the order in which they were presented in the data file.
